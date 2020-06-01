@@ -1,0 +1,1 @@
+kube-share-namespace/shared_namespace.tf
